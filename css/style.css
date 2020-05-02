@@ -1898,3 +1898,6 @@ img
   position: absolute;
   display: block;
 }
+.post-toc .nav .nav-child {
+  display: block;
+}
